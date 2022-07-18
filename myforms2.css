@@ -1,0 +1,15 @@
+body{
+    /* background-color: lavender; */
+    background: linear-gradient(770deg, blue, pink);
+     
+} 
+
+p{
+    color: aqua;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+/* #butt{
+    text-decoration: none;
+} */
